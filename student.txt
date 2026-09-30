@@ -1,0 +1,4 @@
+Name: Naff > student.txt
+echo Name: Naff
+Student number: A00070362
+Course code: TU756
